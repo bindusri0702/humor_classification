@@ -6,4 +6,9 @@ For this we used dataset from Hahackathon (https://competitions.codalab.org/comp
 
 In that we performed 1a and 1c tasks.
 
+The sentence embeddings are generated using BERT transformer and ELMo Bi-LSTM language model.
+
+Th classification performance was compared between ELMo, BERT and ELMo + BERT embeddings.
+
+F1-score is used as performance metric.
 
