@@ -11,4 +11,3 @@ The sentence embeddings are generated using BERT transformer and ELMo Bi-LSTM la
 Th classification performance was compared between ELMo, BERT and ELMo + BERT embeddings.
 
 F1-score is used as performance metric.
-
